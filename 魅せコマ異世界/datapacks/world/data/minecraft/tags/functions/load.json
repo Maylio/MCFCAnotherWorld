@@ -1,0 +1,7 @@
+{
+    "values": [
+        "core:_load",
+        "animation:_load",
+        "attribute:_load"
+    ]
+}
